@@ -10,4 +10,6 @@ public class MoviesContext : DbContext
     }
     
     public DbSet<Movie> Movies { get; set; }
+    
+    public DbSet<Category> Categories { get; set; }
 }

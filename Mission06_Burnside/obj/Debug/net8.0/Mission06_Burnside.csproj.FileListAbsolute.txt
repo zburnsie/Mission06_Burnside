@@ -131,3 +131,4 @@
 /Users/tech/RiderProjects/Mission06_Burnside/Mission06_Burnside/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/tech/RiderProjects/Mission06_Burnside/Mission06_Burnside/obj/Debug/net8.0/Mission06_Burnside.csproj.AssemblyReference.cache
 /Users/tech/RiderProjects/Mission06_Burnside/Mission06_Burnside/obj/Debug/net8.0/Mission0.CF713D6B.Up2Date
+/Users/tech/RiderProjects/Mission06_Burnside/Mission06_Burnside/obj/Debug/net8.0/Mission06_Burnside.sourcelink.json
